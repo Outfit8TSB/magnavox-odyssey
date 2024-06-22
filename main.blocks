@@ -1,0 +1,7 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="pxt-on-start" id="%lV,iJXUZ,AMn,xX3cKh" x="0" y="0"><statement name="HANDLER"><block type="device_show_leds" id="beMTWb}Y*W)?d/sMfuyG"><field name="LEDS">`
+        # # # # # 
+        # # # # # 
+        # # # # # 
+        # # # # # 
+        # # # # #
+        `</field></block></statement></block><block type="device_forever" id="[@q;-#u5{W$X]HjJyae`" x="205" y="0"></block><block type="device_pin_event" id="5[FucC@zDZGN_%weT4iq" x="603" y="266"><field name="name">TouchPin.P0</field></block></xml>
